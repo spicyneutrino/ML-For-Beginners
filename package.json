@@ -25,5 +25,9 @@
 	"homepage": "https://github.com/microsoft/ML-For-Beginners#readme",
 	"devDependencies": {
 		"docsify-to-pdf": "0.0.5"
+	},
+	"dependencies": {
+		"docsify-server-renderer": "^4.13.1",
+		"glob": "^11.0.0"
 	}
 }
