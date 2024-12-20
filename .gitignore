@@ -18,6 +18,9 @@ dist
 # Mono auto-generated files
 mono_crash.*
 
+# Ignore the environment folder
+myenv/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
